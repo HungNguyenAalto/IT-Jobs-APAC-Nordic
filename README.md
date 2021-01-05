@@ -22,7 +22,7 @@ C (for Corporate)
 - The content MUST be in Markdown Format. If you are unfamiliar with the Markdown, you can still post job easily by filling the JD template belows. Otherwise, take some minutes to check the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - All JDs must be written in English
 
-## Location (REQUIRED)
+``` ## Location (REQUIRED)
 
 * Tallinn, Estonia
 
@@ -60,9 +60,7 @@ or
 
 ### Contact (REQUIRED)
 Homepage: johndoe.com
-Trollman: johndoe_at_gmail_dot_com (Mobile/Whatsapp/ Skype optional)
-
-```
+Trollman: johndoe_at_gmail_dot_com (Mobile/Whatsapp/ Skype optional) ```
 
 ## 2. How to post your job?
 👉 [Submit a Github Issue Ticket](https://github.com/HungNguyenAalto/IT-Jobs-APAC-Nordic/issues/new) . Fill the tittle + the write box, then press 🙌 ```Submit New Issue```
